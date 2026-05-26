@@ -2,8 +2,6 @@
 
 A retro-style space shooter built with pure **HTML5 Canvas**, featuring progressive difficulty and smooth gameplay.
 
-![Game Preview](https://via.placeholder.com/800x400/0a0a0a/ffd700?text=GOLD+VOID+DEFENDERS)
-
 ## 🎮 Game Description
 
 **Gold Void Defenders** is a modern take on classic arcade space shooters. Pilot a golden armored spaceship and defend against waves of increasingly aggressive aliens. 
@@ -51,4 +49,4 @@ The game features **progressive difficulty** — aliens get faster, more numerou
 - **Geometry Stage** — Shape definitions for player & aliens
 - **Rasterization Stage** — Canvas 2D rendering with gradients, particles, and effects
 
-## 📁 Project Structure
+
